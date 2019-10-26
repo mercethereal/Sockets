@@ -16,7 +16,7 @@ namespace TurnCommerce
         private static Dictionary<int, string> testanswer = new Dictionary<int, string>();
         private static String xmlRequestBegin = @"<?xml version=""1.0""encoding=""ISO-8859-1""?><request><requestID>";
         private static String xmlRequestEnd = @"</requestID></request>";
-        private static string host = "216.38.192.141";
+        private static string host = "127.0.0.1";
         private static int port = 8765;
         private const int loopcontrol = 500;
         private static Stopwatch sw = new Stopwatch();      
