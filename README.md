@@ -2,7 +2,7 @@
 
 This repository was created in response to a programming challenge to demonstrate network programming, Multi-Threading, socketed connections and console applications.
 
-Test A: Sockets
+Read the Instructions.MD file in the sockets directory for the complete challenge instructions.
 
 TECHNOLOGIES REQUIRED:
 Arrays
