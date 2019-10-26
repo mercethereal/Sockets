@@ -1,0 +1,7 @@
+C:\sharp\sockets\obj\Debug\sockets.csprojAssemblyReference.cache
+C:\sharp\sockets\obj\Debug\sockets.csproj.CoreCompileInputs.cache
+C:\sharp\sockets\bin\Debug\sockets.exe.config
+C:\sharp\sockets\bin\Debug\sockets.exe
+C:\sharp\sockets\bin\Debug\sockets.pdb
+C:\sharp\sockets\obj\Debug\sockets.exe
+C:\sharp\sockets\obj\Debug\sockets.pdb
