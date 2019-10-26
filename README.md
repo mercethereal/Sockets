@@ -1,4 +1,4 @@
-# sockets
+# Sockets
 
 This repository was created in response to a programming challenge to demonstrate network programmingm socketed connections and creating console applications.
 
