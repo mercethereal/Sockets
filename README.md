@@ -1,6 +1,6 @@
 # Sockets
 
-This repository was created in response to a programming challenge to demonstrate network programmingm socketed connections and creating console applications.
+This repository was created in response to a programming challenge to demonstrate network programming, socketed connections and creating console applications.
 
 Test A: Sockets
 
